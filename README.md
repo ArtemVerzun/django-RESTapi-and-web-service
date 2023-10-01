@@ -1,4 +1,4 @@
-## django EventAPI and dajango web_service
+## django EventAPI and dajango web_service.
 ### Тестовое задание от SWC на должность python backend developer
 ### Задание можно посмотреть по этой ссылке -> <https://drive.google.com/file/d/1LPiKXbWoZqGhX7tP-J74IzA6_jKumPSi/view>
 Первая часть задания (Создать БД):
