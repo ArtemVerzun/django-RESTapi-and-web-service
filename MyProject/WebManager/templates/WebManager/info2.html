@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Страница с информированием</title>
+</head>
+<body>
+    {%if flag == 0 %}
+        <script>alert("Не получилось зарегистрироваться");</script>
+         <a href="{% url 'index' %}"><h1>Перейти для повторной регистрации</h1></a>
+    {% else %}
+       <script>alert("Вы успешно зарегистрировались");</script>
+        <a href="{% url 'index' %}"><h1>Перейти для авторизации</h1></a>
+    {% endif %}
+</body>
+</html>
