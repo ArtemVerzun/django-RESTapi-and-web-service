@@ -53,15 +53,19 @@
   
   ![image](https://github.com/ArtemVerzun/django-RESTapi-and-web-service/assets/143192676/02ec7f17-1355-4a46-8a8c-16de5c1da606)
 
-  ![image](https://github.com/ArtemVerzun/django-RESTapi-and-web-service/assets/143192676/72f0b3dc-2d9c-4e4e-844a-5cddec6e5e36)
+  ![image](https://github.com/ArtemVerzun/django-RESTapi-and-web-service/assets/143192676/ecd88cd8-8403-4408-a55d-9b7f4a517588)
 
   после успешной регистрации пользователь будет перенаправлен на страницу авторизации из которой можно попасть в свой аккаунт
   
 * страница с аккаунтом
   при открытии страницы на нее подгружаются данные пользователя и событий
-  ![image](https://github.com/ArtemVerzun/django-EventAPI-and-dajango-web_service/assets/143192676/6c6b6039-1f85-49d3-81d8-b68a4fac96f2)
+
+  ![image](https://github.com/ArtemVerzun/django-RESTapi-and-web-service/assets/143192676/cd04723c-bc69-4fc4-a925-750fbc1a5215)
+
   при выборе какого нибудь события оно отобразится на странице, а также его участники
-  ![image](https://github.com/ArtemVerzun/django-EventAPI-and-dajango-web_service/assets/143192676/77c16d98-c1e3-4e3d-b3a0-cb749a9ad0fb)
+
+  ![image](https://github.com/ArtemVerzun/django-RESTapi-and-web-service/assets/143192676/19d8d8ec-d394-4b8f-ab4d-3d02e8a16681)
+
 * про действия с событиями
   на страницу могут подгружаться три вида кнопок (Участвовать в событии, Отменить участие, Удалить событие)
   логика следующая:
@@ -69,12 +73,14 @@
   если пользователь выбирает событие, которое он создал то он может отменить участие, после чего сможет его только удалить.
   Пример:
   в аккаунте Artem Verzun выберем событие5
-  ![image](https://github.com/ArtemVerzun/django-EventAPI-and-dajango-web_service/assets/143192676/435abbf0-d725-46d2-ac5c-3e1430fd19fa)
+  
+  ![image](https://github.com/ArtemVerzun/django-RESTapi-and-web-service/assets/143192676/0c98891a-d5f4-4596-bf90-0231fb7254a6)
   
   после нажатия на кнопку Artem добавляется к участникам
-  ![image](https://github.com/ArtemVerzun/django-EventAPI-and-dajango-web_service/assets/143192676/85f789e6-ff44-46c5-90bd-ae7a9e5f8441)
-  
+  ![image](https://github.com/ArtemVerzun/django-RESTapi-and-web-service/assets/143192676/734eddf6-f500-4644-a995-589223d137d1)
+
   после этого можно отменить участие...
+  
 * Что еще???
   можно свободно перемещаться по веб сервису, регаться и заходить в разные аккаунты, без ошибок.
   конечно frontend не на слишком высоком уровне, и авторизацию можно сделать лучше, например токенами...
