@@ -8,7 +8,9 @@
 
 Вторая часть задания (Разработать RESTful API):
 * регистрация пользователя
+  
   ![1](https://github.com/ArtemVerzun/django-EventAPI-and-dajango-web_service/assets/143192676/943edaea-60ce-4b46-b16c-f0fdb289de4a)
+  
 * авторизация пользователя
   была сделана примитивная авторизация путем проверки логина и пароля в таблице.
   ![image](https://github.com/ArtemVerzun/django-EventAPI-and-dajango-web_service/assets/143192676/78e18b47-3fa2-4422-b32e-3be654efbf44)
