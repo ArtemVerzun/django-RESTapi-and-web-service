@@ -2,10 +2,9 @@
 ### Тестовое задание от SWC на должность python backend developer
 ### Задание можно посмотреть по этой ссылке -> <https://drive.google.com/file/d/1LPiKXbWoZqGhX7tP-J74IzA6_jKumPSi/view>
 Первая часть задания (Создать БД):
+![image](https://github.com/ArtemVerzun/django-RESTapi-and-web-service/assets/143192676/652d24f9-985a-4312-bc33-73c70ee2bb59)
 
-![image](https://github.com/ArtemVerzun/django-RESTapi-and-web-service/assets/143192676/1d5ed1c4-3442-4c33-b3d8-df48daac0409)
-
-![image](https://github.com/ArtemVerzun/django-EventAPI-and-dajango-web_service/assets/143192676/36c054dc-9248-4c9c-8a46-4ce1ded289bb)
+![image](https://github.com/ArtemVerzun/django-RESTapi-and-web-service/assets/143192676/bc7cac39-7628-4f6d-997b-c4b4bb6022a8)
 
 Вторая часть задания (Разработать RESTful API):
 * регистрация пользователя
